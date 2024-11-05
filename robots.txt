@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ivoguune.github.io/Cxo/sitemap_index.txt
+Sitemap: https://ivoguune.github.io/JFU/sitemap_index.txt
+Sitemap: https://ivoguune.github.io/Xlw/sitemap_index.txt
+Sitemap: https://ivoguune.github.io/jVR/sitemap_index.txt
